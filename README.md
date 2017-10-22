@@ -1,8 +1,8 @@
 # ComputerVision
 CV study repo.  
 ## 1st Members
-FuZer(SeungHyeon Jeon)
+-FuZer(SeungHyeon Jeon)
 
-SeungHun Choi
+-SeungHun Choi
 
-devArtoria(SeongHyeon Kim)
+-devArtoria(SeongHyeon Kim)
